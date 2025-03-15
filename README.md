@@ -39,6 +39,4 @@ python3 manage.py migrate
 python3 manage.py runserver
 ```
 ***
-## Автор
 
-#### [Дмитрий](https://github.com/vhg860)
